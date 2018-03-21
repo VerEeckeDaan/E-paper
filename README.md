@@ -13,3 +13,8 @@ mbed deploy
 ``` powershell
 mbed compile -f
 ```
+
+3. When using the NUCLEO-L073RZ, use the following command
+```
+mbed compile -f -m NUCLEO_L073RZ -t GCC_ARM
+```
