@@ -5,12 +5,12 @@ referenced on the https://github.com/soonuse/gdew042z15_4.2inch_e-paper_b librar
 ## compile mbed:
 
 1. download mbed library (only once)
-``` powershell
+``` 
 mbed deploy
 ```
 
 2. to compile
-``` powershell
+```
 mbed compile -f
 ```
 
